@@ -25,9 +25,7 @@ a {
 	margin: 5%;
 	list-style-type: none;
 }
-nav {
-	background-color: #7E6024;
-}
+
 li {
 	display: block;
 	list-style-type: none;
@@ -45,5 +43,8 @@ a:hover {
 	color: #FCF9F3;
 }
 a:active {
-	color:#780C0E;
+	background-color:#74A3F7;
+}
+li:active {
+	background-color:#74A3F7;
 }
