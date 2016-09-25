@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>menu</title>
+<title>Active Menu Project</title>
 </head>
 <link rel="stylesheet" type="text/css" href="active_menu.css">
 <body>
