@@ -30,4 +30,11 @@ menu items {
 	text-decoration: none;
 	display: inline;
 	text-align: justify;
+	color: #000000;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+	display: inherit;
 }
