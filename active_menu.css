@@ -17,20 +17,20 @@ a {
 	text-decoration: none;
 	text-align: left;
 	/* [disabled]display: block; */
-	padding: 5%;
-	margin: 5%;
+	padding: 20%;
+	/* [disabled]margin: 5%; */
 	list-style-type: none;
 }
 li {
 	display: block;
 	list-style-type: none;
 	/* [disabled]margin: 4%; */
-	float: left;
 	padding-top: 2%;
 	padding-right: 2%;
 	padding-bottom: 2%;
 	padding-left: 6%;
 	width: 13%;
+	float: left;
 }
 a:hover {
 	background-color: #3B5681;
