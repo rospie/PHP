@@ -16,6 +16,9 @@ p {
 	clear: both;
 	padding-bottom: 1%;
 }
+body {
+	border: 100% solid #3B5681;
+}
 a {
 	color: #000000;
 	text-decoration: none;
@@ -43,8 +46,5 @@ a:hover {
 	color: #FCF9F3;
 }
 a:active {
-	background-color:#74A3F7;
-}
-li:active {
 	background-color:#74A3F7;
 }
