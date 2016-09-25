@@ -1,5 +1,5 @@
+<link rel="stylesheet" type="text/css" href="active_menu.css">
 
-'
 
 <ul>
 	<li><a href="menu_p1.php"<?php if($curpage == 'menu_p1.php') {echo 'class="active"';}?>>page1</a></li>
