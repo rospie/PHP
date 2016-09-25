@@ -10,7 +10,11 @@ h1 {
 p {
 	font-family: Calibri;
 	text-align: center;
+	padding-top: 1%;
+	padding-right: 10%;
+	padding-left: 10%;
 	clear: both;
+	padding-bottom: 1%;
 }
 a {
 	color: #000000;

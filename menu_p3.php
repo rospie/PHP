@@ -12,9 +12,9 @@
 	$curpage = 'menu_p3.php';
 	include 'menu.php';
 	?>
-<h1>Page 3</h1>
+<h1>Project</h1>
 
-<p>Page 3 text text text text text</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, fugit, explicabo, assumenda perspiciatis ea ipsa nam porro a quaerat quam error maiores hic adipisci unde nostrum! Deserunt possimus doloremque magni.</p>
 
 <?php
 	require 'footer.php';

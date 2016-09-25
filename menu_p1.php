@@ -12,9 +12,10 @@
 	include 'menu.php';
 	?>
 
-<h1>Hello world</h1>
+<h1>Hello World</h1>
 
-<p>Hello World text text text text text</p>
+<p>Hello World <br> 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, fugit, explicabo, assumenda perspiciatis ea ipsa nam porro a quaerat quam error maiores hic adipisci unde nostrum! Deserunt possimus doloremque magni.</p>
 <?php
 	require 'footer.php';
 	?>
